@@ -1,5 +1,5 @@
-#Note :
-#hati" Akun Anda kena checkpoint
+#Hack Milik Infected_AOFSFOF
+#Kalau Diubah Bisa Kena CheckPoint
 import os, sys, time, datetime, random, hashlib, re, threading, json, getpass, urllib, requests, mechanize
 from multiprocessing.pool import ThreadPool
 
