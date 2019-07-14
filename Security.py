@@ -1,8 +1,8 @@
 import os, sys
 
-print ("\033[1;32mBOT SECURITY SAFA AKTIF")
+print ("\033[1;32mSYSTEM LOGIN ADMIN")
 
-print ("\033[1;32mSILAHKAN MASUKKAN USER & PASSWORD")
+print ("\033[1;32mMASUKKAN USER & PASSWORD")
 
 username = 'Fauzi IFC'      
 
