@@ -24,7 +24,7 @@ def jalan(z):
         time.sleep(0.01)
 
 
-logo = '\x1b[1;93m* \x1b[1;97mAuthor  \x1b[1;91m: \x1b[1;96mFauzi.IFC\x1b[1;97m\n\x1b[1;93m* \x1b[1;97mNickName \x1b[1;91m: \x1b[1;96mInfected\x1b[1;97m[\x1b[1;96mAOFSFOF\x1b[1;97m] \x1b[1;97m/ \x1b[1;96mMR.UTOMO \x1b[1;97m/ \x1b[1;96mFauzi IFC\n\x1b[1;93m* \x1b[1;97mWhatsapp  \x1b[1;91m: \x1b[1;92m\x1b[4m089677556385\x1b[0m\n[!] CopyRight BY : Infected_AOFSFOF\n'
+logo = '\x1b[1;92mSYSTEM ATTACK FACEBOOK ACCOUNT \x1b[1;93mBETA\n\x1b[1;93m* \x1b[1;97mAuthor  \x1b[1;91m: \x1b[1;96mFauzi.IFC\x1b[1;97m\n\x1b[1;93m* \x1b[1;97mNickName \x1b[1;91m: \x1b[1;96mInfected\x1b[1;97m[\x1b[1;96mAOFSFOF\x1b[1;97m] \x1b[1;97m/ \x1b[1;96mMR.UTOMO \x1b[1;97m/ \x1b[1;96mFauzi IFC\n\x1b[1;93m* \x1b[1;97mWhatsapp  \x1b[1;91m: \x1b[1;92m\x1b[4m089677556385\x1b[0m\n[!] CopyRight BY : Infected_AOFSFOF\n'
 
 def tik():
     titik = [
